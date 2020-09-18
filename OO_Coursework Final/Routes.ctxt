@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=single\ comingback\ timeie
+comment0.target=Routes(double,\ double,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Routes\r\n
+comment1.params=
+comment1.target=double\ getSingleCost()
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment2.params=
+comment2.target=void\ createRoutes()
+comment3.params=
+comment3.target=double\ getReturnCost()
+comment4.params=
+comment4.target=double\ getTime()
+comment5.params=i
+comment5.target=java.lang.String\ getArray(int)
+comment6.params=i\ station
+comment6.target=void\ setArray(int,\ java.lang.String)
+numComments=7
